@@ -1,7 +1,5 @@
 import React, {useState, useEffect} from 'react';
 import {StyleSheet, Text, TextInput, ScrollView, View, TouchableOpacity, ImageBackground, Image, Alert} from 'react-native';
-// eslint-disable-next-line @typescript-eslint/ban-ts-comment
-// @ts-ignore
 import {parseString} from 'react-native-xml2js';
 import DatePicker from 'react-native-date-picker';
 import { Dimensions } from "react-native";
