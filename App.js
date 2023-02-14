@@ -27,7 +27,7 @@ const App=()=> {
   const [avgPrice, setAvgPrice]=useState(0);
   const [selectedDate, setSelectedDate]=useState("");
   const [responseGot, setResponseGot]=useState(false);
-  const myToken = "<***YOUR TOKEN GOES HERE***>";
+  const myToken = "<**YOUR TOKEN GOES HERE**>";
   const [countryCode, setCountryCode] = useState("10YFI-1--------U");
   const screenWidth = Dimensions.get("window").width-20; 
   const countryCodes =[{label:"Suomi", value:"10YFI-1--------U"},
