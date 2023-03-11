@@ -27,3 +27,9 @@ npm install
 ```
 
 ## **SCREENSHOTS**
+
+## Select the date and country to see the spot prices
+![Screenshot_1678548441](https://user-images.githubusercontent.com/102353086/224493088-63d7ceca-b910-4487-83f5-dd1d8f590c9b.png)
+
+## Prices are shown in a hour-to-hour diagram with also the cheapest and most expensive hourly prices and average price per day
+![Screenshot_1678548467](https://user-images.githubusercontent.com/102353086/224493232-f0ff3847-b545-4d83-93a8-890278dfb24a.png)
