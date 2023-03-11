@@ -1,5 +1,5 @@
 # `SpotPrices - View prices of electricity in the Nordic Countries`
-## &copy; 2022 Ari-Jussi Ahonen
+## &copy; 2022-2023 Ari-Jussi Ahonen
 **SpotPrice** is a mobile application that displays the daily and hour-to-hour spot prices of electricity
 
 This application is developed using the **React Native Framework**.<br/>
